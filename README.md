@@ -15,4 +15,4 @@
 3. ["Russia", "Denmark", "Kazan"] -> []
 
 
-<image src="diagram.jpg" alt="алгоритм">
+<image src="diagram.png" alt="алгоритм">
